@@ -1,0 +1,16 @@
+{
+  "name": "poke-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "homepage": "https://hollsann.github.io/pokeapi",
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
